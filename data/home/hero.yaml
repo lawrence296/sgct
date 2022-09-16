@@ -2,11 +2,11 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "**Secure** door access system"
+  text: "Innovative door access system based on robust and proven secure cryptographic encoding to authorise door access. No need to issue physical token or remember PIN code. Call us now to see how we can bring your office security up a level."
 
   buttonPrimary:
-    label: "How we work"
+    label: "How it works"
     url: "#"
 
   buttonSecondary:

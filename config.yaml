@@ -10,11 +10,11 @@ summaryLength: 20
 
 params:
   title: "VICU"
-  description: "Smart automation. We provide secure door access system. Connect up your IOTs for office automation and monitoring."
+  description: "We provide secure door access system. Integrated to our system, we can connect to your IOTs and interface to third party system for seamless office automation and monitoring."
   images: 
     - "images/hero-image.png"
 
-  logo: "arrow-up.png"
+  logo: "images/logo.png"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -22,7 +22,6 @@ params:
     faviconColor: "#000000"
 
   social:
-    dribbble: "#"
     instagram: "#"
     facebook: "#"
     twitter: "#"
@@ -53,7 +52,7 @@ menus:
       weight: 3
 
   buttons:
-    - name: "Book a call"
+    - name: "Contact us"
       url: "/#"
       weight: 5
       pre: "btn btn-primary text-light"
