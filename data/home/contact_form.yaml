@@ -1,0 +1,21 @@
+title: "Contact Us"
+id: "contact"
+
+form1:
+  - label: "Name"
+    name: "name"
+    type: "text"
+    required: true
+
+  - label: "Email"
+    name: "email"
+    type: "email"
+    formtext: "We will never share your email with anyone else."
+    required: true
+
+form2:
+  - label: "Enquiry"
+    name: "enquiry"
+    textarea: true
+    rows: 5
+    required: true

@@ -2,26 +2,17 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Key Components and Features"
+  text: "Much of the secure encoding and business logic are distributed to eliminate single point of failure. All the interfaces are extremely easy and intuitive to use and manage."
   cards:
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
+    - image: "images/reader.png"
+      title: "Smart Reader"
+      text: "Elegant in design, the reader house a capable processing unit that does most of the heavy lifting work like code verification, authentication, user interface and information display."
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
+    - image: "images/backend.png"
+      title: "Management System"
+      text: "Easy to use management system to import your corporate personels and setup your own access zones and permissions. Access logs can be viewed and downloaded."
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
+    - image: "images/app.png"
+      title: "Personal Identification"
+      text: "Install the App to your smart phone, register into the system and you are ready to go. The App auto-generates a unique QR code for every door access. No physical tokens or cards and no PIN."

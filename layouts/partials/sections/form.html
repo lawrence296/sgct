@@ -1,0 +1,22 @@
+<section id="{{ .id }}" class="section py-5">
+  <div class="container">
+		<h3 class="fs-1 fw-bold text-primary pb-3">{{ .title }}</h3>
+		<form action="/thanks" method="POST" name="contactus" netlify>
+			<div class="row align-items-start">
+				<div class="col-12 col-xl-6 d-flex flex-column justify-content-center">
+				{{ range .form1 }}
+					{{ partial "sections/input" . }}
+				{{ end }}
+				</div>
+				<div class="col-12 col-xl-6 d-flex flex-column justify-content-center">
+				{{ range .form2 }}
+					{{ partial "sections/input" . }}
+				{{ end }}
+				</div>
+			</div>
+			<button type="submit"  class="btn btn-primary text-light px-4">Submit</button>
+
+		</form>
+  </div>
+</section>
+

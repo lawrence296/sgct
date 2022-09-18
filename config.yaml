@@ -21,17 +21,17 @@ params:
     backgroundColor: "#FFFFFF"
     faviconColor: "#000000"
 
-  social:
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
+#  social:
+#    instagram: "#"
+#    facebook: "#"
+#    twitter: "#"
 
   location:
     - "57 Ubi Ave 1 #07-07, Singapore 408936"
 
   contact:
     - "support@sgcomp-tech.com"
-    - "6841 0951"
+    - ""
 
   copyright: "© 2022 SG Comp-Tech Pte Ltd"
 
@@ -43,32 +43,16 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "Pricing"
-      url: "/#"
-      weight: 2
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 3
-
   buttons:
     - name: "Contact us"
-      url: "/#"
+      url: "#contact"
       weight: 5
       pre: "btn btn-primary text-light"
 
   footer:
-    - name: "Home"
-      url: "/#hero"
+    - name: "Who are we"
+      url: "#aboutus"
       weight: 1
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 2
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 3
 
 taxonomies:
   series: "series"

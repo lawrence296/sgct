@@ -1,3 +1,3 @@
 +++
-author = "Hugo Authors"
+author = "SG Comp-Tech Pte Ltd"
 +++
